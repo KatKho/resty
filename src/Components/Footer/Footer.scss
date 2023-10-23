@@ -1,0 +1,12 @@
+$backgroundColor: #efefef;
+ 
+footer {
+    background: darken($backgroundColor, 60);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    border-top: 1px solid #eee;
+    padding: 1em 3em;
+    margin: 0;
+  }

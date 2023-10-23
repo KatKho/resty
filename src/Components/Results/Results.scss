@@ -1,0 +1,19 @@
+$backgroundColor: #efefef;
+
+section {
+  display: inline-block;
+  margin: 2rem auto; 
+  padding: 2rem; 
+  border: 2px solid #ccc; 
+  background-color: $backgroundColor; 
+  width: 80%; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+
+  pre {
+    font-size: 0.9rem; 
+    overflow-x: auto; 
+    word-wrap: break-word; 
+    white-space: pre-wrap; 
+    margin: 0; 
+  }
+}
