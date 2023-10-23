@@ -9,9 +9,11 @@ RESTy is a React-based API testing application. In its initial phase, the app pr
 - Basic State
 - Rendering
   
-## UML
+## URLs
 
-![UML](./public/RestyUML.png)
+- ![UML](./public/RestyUML.png)
+- [PR 1](https://github.com/KatKho/resty/pull/1)
+
 
 ## Contributors
 
