@@ -8,7 +8,7 @@ RESTy is a React-based API testing application. In its initial phase, the app pr
 - Scaffolding
 - Basic State
 - Rendering
-  
+
 ## Phase 2: User Input and State
 
 - Convert <App /> to functional
@@ -16,12 +16,17 @@ RESTy is a React-based API testing application. In its initial phase, the app pr
 - Capture user input
 - Test UI and state
 
-## UML
+## URLs
 
-![UML](./public/RestyUML.png)
+- ![UML](./public/RestyUML.png)
+- [PR 1](https://github.com/KatKho/resty/pull/1)
+- [PR 2](https://github.com/KatKho/resty/pull/3)
+
+
 
 ## Contributors
 
 - Ekaterina Khoroshilova
+
 - ChatGPT has been utilized for tests
-  
+
