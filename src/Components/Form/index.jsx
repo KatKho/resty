@@ -11,8 +11,11 @@ function Form(props) {
       method,
       url,
       data: jsonData 
+      
     };
     props.handleApiCall(formData); 
+    setUrl(''); 
+    setJsonData(''); 
   };
 
   return (
